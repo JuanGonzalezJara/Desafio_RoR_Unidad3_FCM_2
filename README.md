@@ -11,4 +11,4 @@ Desafio orientado al uso de Cliclos para la resolucion de requerimientos
 3. Mostrar la tabla de multiplicar del 0 hasta el 9, para ello puedes utilizar el ciclo for o while.
 4. Haciendo uso de .times o el ciclo for dibuja un triángulo con el carácter que consideres más idóneo, pueden ser asteriscos (\*) o numerales (#).
 
-![Logo!](https://raw.githubusercontent.com/JuanGonzalezJara/Desafio_RoR_Unidad3_FCM_2/main/assets/ROR_Logo.png)
+![Logo!](https://raw.githubusercontent.com/JuanGonzalezJara/Desafio_RoR_Unidad4_M3_2/main/assets/ROR_Logo.png)
